@@ -1,0 +1,16 @@
+float hashem = 000.112121129;
+
+float  hashem ;
+
+bool isPowerOfTwo(int x)
+{
+
+// First x in the below expression is
+
+// for the case when x is 0
+
+float dero; /*jdkskasknjjdjdjsjs */ float hh;
+
+return x && (!(x & (x - 1)));
+
+}
