@@ -1,0 +1,6 @@
+<INT> : int
+<ID> : factorial
+<SEMICOLON> : ;
+<FLOAT> : float
+<ID> : factorial2
+<SEMICOLON> : ;
