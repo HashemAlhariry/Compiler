@@ -11,6 +11,5 @@ Recursive descent parser.
 - A node root, which is the root of the constructed parse tree.
 - A constructor.
 - A parse function that calls the start rule in the grammar.
-- Each grammar rule almost has a function.
-- This function return its suitable node data type
-from parse tree.
+- Each grammar rule has a function.
+- This function return its suitable node data type from parse tree.
